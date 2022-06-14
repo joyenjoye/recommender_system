@@ -5,7 +5,7 @@ remote_theme: just-the-docs/just-the-docs
 collections:
   doc:
     permalink: "/:collection/:path/"
-    output: true
+    output: false
     nav_exclude: true
   rechub:
     permalink: "/:collection/:path/"
