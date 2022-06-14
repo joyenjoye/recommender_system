@@ -6,6 +6,7 @@ collections:
   doc:
     permalink: "/:collection/:path/"
     output: true
+     nav_exclude: false
   rechub:
     permalink: "/:collection/:path/"
     output: true
@@ -13,8 +14,7 @@ collections:
 just_the_docs:
   collections:
     doc:
-      name: MySQL
-
+      name: documentation
     rechub:
       name: rechub
 
