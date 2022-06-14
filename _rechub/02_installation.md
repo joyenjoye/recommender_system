@@ -60,6 +60,8 @@ conda install -c conda-forge python-annoy
 ```
 
 *Step4: Install `torch-rehub`
+
 ```bash
 pip install torch-rechub
 ```
+

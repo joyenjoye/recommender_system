@@ -6,7 +6,7 @@ collections:
   doc:
     permalink: "/:collection/:path/"
     output: true
-     nav_exclude: false
+    nav_exclude: true
   rechub:
     permalink: "/:collection/:path/"
     output: true
