@@ -1,0 +1,20 @@
+# theme: jekyll-theme-cayman
+remote_theme: just-the-docs/just-the-docs
+
+
+collections:
+  doc:
+    permalink: "/:collection/:path/"
+    output: true
+  rechub:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    doc:
+      name: MySQL
+
+    rechub:
+      name: rechub
+
